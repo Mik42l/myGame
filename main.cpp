@@ -27,6 +27,6 @@ int main()
         window.draw(sprite);
         window.display();
     }
-
+    
     return 0;
 }
