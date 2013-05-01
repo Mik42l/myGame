@@ -13,7 +13,8 @@ int main()
     texture.loadFromImage(image); 
     sf::Sprite sprite;
     sprite.setTexture(texture);
-    //Couco Test Git
+    //This is a test to see if everything works fine
+    
     while (window.isOpen())
     {
         sf::Event event;
